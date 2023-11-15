@@ -1,0 +1,1148 @@
+=======================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<h2>SL Geek</h2>
+	<h3>SL Geek</h3>
+	<h4>SL Geek</h4>
+	<h5>SL Geek</h5>
+	<h6>SL Geek</h6>
+</body>
+</html>
+
+=======================================
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report. If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+</body>
+</html>
+
+==========================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+</body>
+</html>
+
+==========================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+</body>
+</html>
+
+============================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<a href="https://www.slgeek.store/">SL Geek Store</a>
+</body>
+</html>
+
+=============================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<a href="https://www.slgeek.store/">SL Geek Store</a>
+	<br>
+	<br>
+	<a href="C:\Users\Pasindu Jayasinghe\Desktop\fm__samantha_x.zip">Samantha Font</a>
+</body>
+</html>
+
+image add (local store)
+==============================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<a href="https://www.slgeek.store/">SL Geek Store</a>
+	<br>
+	<br>
+	<a href="C:\Users\Pasindu Jayasinghe\Desktop\fm__samantha_x.zip">Samantha Font</a>
+	
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="SL Geek Logo" width="200" height="200">
+</body>
+</html>
+
+
+Image add (google)
+===============================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<a href="https://www.slgeek.store/">SL Geek Store</a>
+	<br>
+	<br>
+	<a href="C:\Users\Pasindu Jayasinghe\Desktop\fm__samantha_x.zip">Samantha Font</a>
+	
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="SL Geek Logo" width="200" height="200">
+	
+	<img src="https://imgv3.fotor.com/images/cover-photo-image/a-beautiful-girl-with-gray-hair-and-lucxy-neckless-generated-by-Fotor-AI.jpg" alt="SL Geek Logo" width="200" height="200">
+</body>
+</html>
+
+none order list
+=================================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+<ul> 
+	<li>A</li>
+	<li>B</li>
+	<li>C</li>
+	<li>D</li>
+	<li>E</li>
+</ul>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<a href="https://www.slgeek.store/">SL Geek Store</a>
+	<br>
+	<br>
+	<a href="C:\Users\Pasindu Jayasinghe\Desktop\fm__samantha_x.zip">Samantha Font</a>
+	
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="SL Geek Logo" width="200" height="200">
+	
+	<img src="https://imgv3.fotor.com/images/cover-photo-image/a-beautiful-girl-with-gray-hair-and-lucxy-neckless-generated-by-Fotor-AI.jpg" alt="SL Geek Logo" width="200" height="200">
+</body>
+</html>
+
+Order List
+================================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+
+<ol> 
+	<li>A</li>
+	<li>B</li>
+	<li>C</li>
+	<li>D</li>
+	<li>E</li>
+</ol>
+
+</head>
+<body>
+	<h1>SL Geek</h1>
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<p> HackerRank has received your test report.<br> If you would like to contact them, please go to the invitation e-mail you received and select "Reply All".</p>
+	
+	<a href="https://www.slgeek.store/">SL Geek Store</a>
+	<br>
+	<br>
+	<a href="C:\Users\Pasindu Jayasinghe\Desktop\fm__samantha_x.zip">Samantha Font</a>
+	
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="SL Geek Logo" width="200" height="200">
+	
+	<img src="https://imgv3.fotor.com/images/cover-photo-image/a-beautiful-girl-with-gray-hair-and-lucxy-neckless-generated-by-Fotor-AI.jpg" alt="SL Geek Logo" width="200" height="200">
+</body>
+</html>
+
+Button
+===========================================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek</title>
+</head>
+<body>
+	<h1>SL Geek School</h1>
+	
+	<button>Home</button>
+</body>
+</html>
+
+Define h2 tag and p tag
+=========================================================
+<!DOCTYPE html>
+<html>
+<head>
+<title>SL Geek School</title>
+
+</head>
+<body>
+	<h2 title="ABCDE">LOREM</h2>
+	
+	<p title="12345">
+	In publishing and graphic design,
+	</p>
+</body>
+</html>
+
+Define html tag
+==========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+<body>
+	<h2 title="ABCDE">LOREM</h2>
+	
+	<p title="12345">
+	In publishing and graphic design,
+	</p>
+</body>
+</html>
+
+change colour in p tag
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<h2 title="ABCDE">LOREM</h2>
+	
+	<p style="color:red">
+	In publishing and graphic design,
+	</p>
+</body>
+
+</html>
+
+Pre tag
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	
+	<pre>
+	In 
+	publishing 
+	and graphic 
+	design,
+	</pre>
+</body>
+
+</html>
+
+implement pr tag
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	
+	<pre>
+	In 
+	publishing 
+	and graphic 
+	design,
+	</pre>
+	
+	<p>ABC</p>
+	<p style="color:red;font-size:100px">AAAAA</p>
+	<p style="color:blue">BBBBB</p>
+	<p style="font-size:75px">CCCCC</p>
+	
+</body>
+
+</html>
+
+font size change
+============================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	
+	<pre>
+	In 
+	publishing 
+	and graphic 
+	design,
+	</pre>
+	
+	<p>ABC</p>
+	<p style="color:red;font-size:100%">AAAAA</p>
+	<p style="color:blue;font-size:200%">BBBBB</p>
+	<p style="font-size:300%">CCCCC</p>
+	
+</body>
+
+</html>
+
+change fornt
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	
+	<p>ABC</p>
+	<p style="font-family:Courier">AAAAA</p>
+	
+</body>
+
+</html>
+
+text align
+============================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	
+	<p>ABC</p>
+	<p style="text-align:center">AAAAA</p>
+	<p style="text-align:right">AAAAA</p>
+	<p style="text-align:left">AAAAA</p>
+	
+</body>
+
+</html>
+
+Change Background Colour
+============================================================
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body style="background-color:green">
+
+	
+</body>
+
+</html>
+
+============================================================
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body style="background-color:black">
+	<h1 style="color:white">SL Geek</h1>
+
+	
+</body>
+
+</html>
+
+Bolt tag
+============================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><b>Geek</b></p>
+
+	
+</body>
+
+</html>
+
+Strong tag
+============================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><b>SL Geek</b></p>
+	<p><strong>SL Geek</strong></p>
+	
+</body>
+
+</html>
+
+Italic tag and bolt
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><b>SL Geek</b></p>
+	<p><strong>SL Geek</strong></p>
+	<p><i>SL Geek</i></p>
+	<p><b><i>SL Geek</i></b></p>
+</body>
+
+</html>
+
+Underline tag
+==========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><b>SL Geek</b></p>
+	<p><strong>SL Geek</strong></p>
+	<p><i>SL Geek</i></p>
+	<p><b><i>SL Geek</i></b></p>
+	<p><ins>SL Geek</ins></p>
+</body>
+
+</html>
+
+Subcript  
+==========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><b>SL Geek</b></p>
+	<p><strong>SL Geek</strong></p>
+	<p><i>SL Geek</i></p>
+	<p><b><i>SL Geek</i></b></p>
+	<p><ins>SL Geek</ins></p>
+	<p>SL Geek<sub>SL Geek</sub></p>
+	<p>H<sub>2</sub>O</p>
+	
+</body>
+
+</html>
+
+Supercript
+==========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><b>SL Geek</b></p>
+	<p><strong>SL Geek</strong></p>
+	<p><i>SL Geek</i></p>
+	<p><b><i>SL Geek</i></b></p>
+	<p><ins>SL Geek</ins></p>
+	<p>SL Geek<sub>SL Geek</sub></p>
+	<p>3<sup>2</sup></p>
+</body>
+
+</html>
+
+Delete Tag
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><del>SL Geek<del></p>
+	
+</body>
+
+</html>
+
+Highlight Words
+==========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><mark>SL Geek</marks></p>
+	
+</body>
+
+</html>
+
+Small Tag
+==========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p><small>SL Geek</small></p>
+	
+	<p>SL Geek</p>
+	
+</body>
+
+</html>
+
+===========================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+	<p>A<sup>2</sup>H<sub>2</sub>O<br><br>SL<del>Geek</del>SL Geek <small>School</small></p>
+	
+	<p>SL Geek</p>
+	
+</body>
+
+</html>
+
+"" backout 
+=============================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	
+	<p>ABC <q>DEF</q></p>
+	<p>ABC "DEF" </p>
+	
+</body>
+
+</html>
+
+Block code tag
+===============================================================
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	<p>SL Geek: On the right track</p>
+	<blockquote cite="https://www.w3schools.com/java/default.asp">
+	<q>We recommend reading this tutorial, in the sequence listed in the left menu.
+	Java is an object oriented language and some concepts may be new. 
+	Take breaks when needed, and go over the examples as many times as needed.
+	</q></blockquote>
+</body>
+
+</html>
+
+abrivation tag
+=================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	<p><abbr title="Sri Lankan Geek">SL Geek</abbr> On the right track</p>
+	
+</body>
+
+</html>
+
+Address tag
+==================================================================
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	
+	<address>
+		123/4, <br>
+		ABC Road, <br>
+		DEF.	<br>
+		10222
+	</address>
+	
+</body>
+
+</html>
+
+Bio directional overide tag
+==================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	
+	<bdo dir="rtl">ABCDEFGHIJKLMOPQRSTUVWXYZ</bdo>
+	<bdo dir="ltr">ABCDEFGHIJKLMOPQRSTUVWXYZ</bdo>
+	
+</body>
+
+</html>
+
+Comment Tag
+==================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	SL Geek
+	<p>Geek para</p>
+	<h1>SL Geek head</h1>
+	<!SL Geek>
+	
+</body>
+
+</html>
+
+Border
+==================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	<h1 style="border:2px solid green">Sanuka </h1>
+	<h1 style="color:tomato">Sanuka </h1>
+	
+</body>
+
+</html>
+
+Colour Range
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+</head>
+
+<body>
+
+	
+	<h1 style="color:rgb(255,255,255)">Sanuka </h1>
+	<h1 style="color:rgb(0,0,0)">Sanuka </h1>
+	<h1 style="color:#ee82ee">Sanuka </h1>
+	<h1 style="color:hsla(0,100%,50%, 40)">Sanuka </h1>
+	
+</body>
+
+</html>
+
+Use Some CSS part (Internal CSS)
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+	<style>
+	h1{color: red;}
+	p{color: blue;}
+	body{background-color: MediumSeaGreen;}
+	</style>
+</head>
+
+<body>
+
+	
+	<h1> Sanuka </h1>
+	<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	
+</body>
+
+</html>
+
+External CSS
+=============================================================================
+h1{
+	color: red;
+	font-family: impact;
+	font-size: 200%;
+}
+
+p{
+	color: blue;
+	font-family: impact;
+	font-size: 200%;
+	border: 2px solid black;
+	padding: 20px;
+	marging: 50px;
+}
+
+body{
+	background-color : MediumSeaGreen;
+}
+
+//////////////////////////////////////////////////
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+	<link rel="stylesheet" href="F:\Programing Lanquage\Html\CSS.css">
+</head>
+
+<body>
+
+	
+	<h1> Sanuka </h1>
+	<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	
+</body>
+
+</html>
+
+diffent paragraph
+=============================================================================
+h1{
+	color: red;
+	font-family: impact;
+	font-size: 200%;
+}
+
+p{
+	color: blue;
+	font-family: impact;
+	font-size: 200%;
+	border: 2px solid black;
+	padding: 20px;
+	marging: 50px;
+}
+
+body{
+	background-color : MediumSeaGreen;
+}
+
+#p1 {
+	color: yellow;
+	font-size: 400%
+}
+
+////////////////////////////////////////////////////
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+	<link rel="stylesheet" href="F:\Programing Lanquage\Html\CSS.css">
+</head>
+
+<body>
+
+	
+	<h1> Sanuka </h1>
+	<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	<p id=p1>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	
+</body>
+
+</html>
+
+============================================================================
+h1{
+	color: red;
+	font-family: impact;
+	font-size: 200%;
+}
+
+p{
+	color: blue;
+	font-family: impact;
+	font-size: 200%;
+	border: 2px solid black;
+	padding: 20px;
+	marging: 50px;
+}
+
+body{
+	background-color : MediumSeaGreen;
+}
+
+p.ABC {
+	color: yellow;
+	font-size: 400%
+}
+
+////////////////////////////////////////////////////
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+	<link rel="stylesheet" href="F:\Programing Lanquage\Html\CSS.css">
+</head>
+
+<body>
+
+	
+	<h1> Sanuka </h1>
+	<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	<p class="ABC">ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+	<p class="ABC">ABCDEQRSTUVWXYZ</p>
+	
+</body>
+
+</html>
+
+Open new page
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+	
+	<a href="https://www.slgeekshow.com" target=_>SL Geek </a>
+	
+</body>
+
+</html>
+
+Click picture and go to new page
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+	
+	<a href="https://www.slgeekshow.com" title="SL Geek Website">SL Geek </a>
+	<br>
+	<br>
+	<a href="https://www.slgeekshow.com" >
+		<img src ="C:\Users\Asus\Pictures\Saved Pictures\Jupiter.png" alt="SL Geek" Style="width:200px; height:20px; border:1;">
+	</a>
+</body>
+
+</html>
+
+
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+	
+	<a href="https://www.slgeekshow.com" Title = "Sanjeewa">SL Geek </a>
+	<br>
+	<br>
+	<a href="#h6">Heading6</a>
+	<h2> This is 1st Heading</h2>
+	<br>
+	<br>
+	<br>
+	<h2> This is 2nd Heading</h2>
+	<br>
+	<br>
+	<br>
+	<h2> This is 3rd Heading</h2>
+	<br>
+	<br>
+	<br>
+	<h2> This is 4th Heading</h2>
+	<br>
+	<br>
+	<br>
+	<h2> This is 5th Heading</h2>
+	<br>
+	<br>
+	<br>
+	<h2 id="h6"> This is 6th Heading</h2>
+
+</html>
+
+
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="Camera" style="width:200px; height:200px">
+
+</html>
+
+Click image and go to webpage
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+
+	<a href="https://www.slgeek.store">
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="Camera" style="width:200px; height:200px">
+	</a>
+</html>
+
+Floating Images
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+
+	<a href="https://www.slgeek.store">
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="Camera" style="width:200px; height:200px;">
+	</a>
+	
+	<p>
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="Camera" style="float:right; width:200px; height:200px;>
+	
+	</p>
+</html>
+
+Image Map
+=============================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>SL Geek School</title>
+
+</head>
+
+<body>
+
+
+	<a href="https://www.slgeek.store">
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="Camera" style="width:200px; height:200px;">
+	</a>
+	
+	<p>
+	<img src="C:\Users\Asus\Pictures\Saved Pictures\jupiter.jpg" alt="Camera" style="float:right; width:200px; height:200px; usemap="#map1">
+	<map name="map1">
+		<area shape="circle" coords="300,250,40" href="https://www.youtube.com/">
+	</map>
+	</p>
+</html>
+
+Table Desing
+=============================================================================
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<title>SL Geek School</title>
+</head>
+
+
+<body>
+	<table>
+		 <tr>
+			<th>Product Name</th>
+			<th>Product Price</th>
+			<th>Product QTY</th>
+		 </tr>
+		 <tr>
+			<td>iphone 13</td>
+			<td>1200</td>
+			<td>4</td>
+		 </tr>
+		 <tr>
+			<td>iphone 12</td>
+			<td>1099</td>
+			<td>4</td>
+		 </tr>
+		 <tr>
+			<td>iphone 14</td>
+			<td>1099</td>
+			<td>10</td>
+		 </tr>
+	</table>
+	
+</body>
+</html>
+
+Style Table
+=============================================================================
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<title>SL Geek School</title>
+	<style>
+		table {
+			border: 1px solid black;
+			border-collapse: collapse;
+			width: 100%;
+		}
+		td, th{
+			border: 1px solid black;
+			text-align: center;
+			padding: 6px;
+		}
+		tr:nth-child(even){
+			background-color: aqua;
+		}
+
+	</style>
+</head>
+
+
+<body>
+	<table>
+		 <tr>
+			<th>Product Name</th>
+			<th>Product Price</th>
+			<th>Product QTY</th>
+		 </tr>
+		 <tr>
+			<td>iphone 13</td>
+			<td>1200</td>
+			<td>4</td>
+		 </tr>
+		 <tr>
+			<td>iphone 12</td>
+			<td>1099</td>
+			<td>4</td>
+		 </tr>
+		 <tr>
+			<td>iphone 14</td>
+			<td>1099</td>
+			<td>10</td>
+		 </tr>
+	</table>
+	
+</body>
+</html>
